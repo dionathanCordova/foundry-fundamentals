@@ -1,0 +1,33 @@
+{
+  "transactions": [
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": "Deploy",
+      "contractAddress": "0x9f7cf1d1f558e57ef88a59ac3d47214ef25b6a06",
+      "function": "logBalance(address,address)",
+      "arguments": [
+        "0x5aAdFB43eF8dAF45DD80F4676345b7676f1D70e3",
+        "0xa0Ee7A142d267C1f36714E4a8F75612F20a79720"
+      ],
+      "transaction": {
+        "from": "0x1804c8ab1f12e6bbf3894d4083f33e07309d1f38",
+        "to": "0x9f7cf1d1f558e57ef88a59ac3d47214ef25b6a06",
+        "gas": "0x758d",
+        "value": "0x0",
+        "input": "0x4d007e9d0000000000000000000000005aadfb43ef8daf45dd80f4676345b7676f1d70e3000000000000000000000000a0ee7a142d267c1f36714e4a8f75612f20a79720",
+        "nonce": "0x0",
+        "chainId": "0x89"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    }
+  ],
+  "receipts": [],
+  "libraries": [],
+  "pending": [],
+  "returns": {},
+  "timestamp": 1738893103,
+  "chain": 137,
+  "commit": "f7ba74d"
+}
